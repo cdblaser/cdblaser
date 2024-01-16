@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cdblaser
-- 👀 I’m interested in ... becoming a web dev!
-- 🌱 I’m currently learning ... HTML/CSS/JS, React, Typescript, Next, Express
-- 💞️ I’m looking to collaborate on ... any sites or games.
+- 👀 I’m interested in ... learning the secret to life :(
+- 🌱 I’m currently learning ... everything :( 
+- 💞️ I’m looking to collaborate on ... games or web apps!
 - 📫 How to reach me ... I'm on Discord as Bignob#6843.
 
 <!---
